@@ -9,7 +9,7 @@ This is a final project from Tsinghua 2019 *Quantitative Investment Theory* , an
 I am sorry, due to copyright, I can only upload some part of the factors. These factors are really powerful, some part of them powered by tier-1 stock company in China, and some from Alpha 101, and some from GP learn's generation. 
 <br/>
 If you want to run the code, you only have to change the time of the backtest and the file path.
-![image]()
+![image](https://github.com/Blabala/XGboost_Index-Enhancement-Strategy/blob/master/image/data.png)
 <br/>
 <br/>
 **train_model_weekly.py**
@@ -20,7 +20,6 @@ We use XGboost to do a binary classification problem. In the same industry, the 
 **xgb_test_weekly.py**
 <br/>
 Upload XGboost model, and predict the prob. in testing sets. It will produce the decision for each stocks. (Output: a array stock*time)
-![image]()
 <br/>
 <br/>
 **Final Project.py**
@@ -28,4 +27,5 @@ Upload XGboost model, and predict the prob. in testing sets. It will produce the
 Backtest based on a good backtesting platform: http://www.digquant.com.cn/research/community/270
 
 This platform will show all the professional assessment of your strategy.
-![image]()
+![image](https://github.com/Blabala/XGboost_Index-Enhancement-Strategy/blob/master/image/backtest1.png)
+![image](https://github.com/Blabala/XGboost_Index-Enhancement-Strategy/blob/master/image/backtest2.png)
