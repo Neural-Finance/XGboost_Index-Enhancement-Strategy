@@ -1,6 +1,7 @@
 # XGboost_Index-Enhancement-Strategy
 A Index-Enhancement-Strategy based on XGboost, the code is written in Python, but the document is **written in Chinese**
 <br/>
+<br/>
 This is a final project from Tsinghua 2019 *Quantitative Investment Theory* , and here is our work.
 <br/>
 <br/>
@@ -25,7 +26,6 @@ Upload XGboost model, and predict the prob. in testing sets. It will produce the
 **Final Project.py**
 <br/>
 Backtest based on a good backtesting platform: http://www.digquant.com.cn/research/community/270
-
 This platform will show all the professional assessment of your strategy.
 ![image](https://github.com/Blabala/XGboost_Index-Enhancement-Strategy/blob/master/image/backtest1.png)
 ![image](https://github.com/Blabala/XGboost_Index-Enhancement-Strategy/blob/master/image/backtest2.png)
