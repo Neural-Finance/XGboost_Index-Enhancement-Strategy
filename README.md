@@ -1,7 +1,6 @@
 # XGboost_Index-Enhancement-Strategy
 A Index-Enhancement-Strategy based on XGboost, the code is written in Python, but the document is **written in Chinese**
 <br/>
-<br/>
 This is a final project from Tsinghua 2019 *Quantitative Investment Theory* , and here is our work.
 <br/>
 <br/>
