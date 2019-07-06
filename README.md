@@ -4,7 +4,7 @@ A Index-Enhancement-Strategy based on XGboost, the code is written in Python, bu
 This is a final project from Tsinghua 2019 *Quantitative Investment Theory* , and here is our work.
 <br/>
 <br/>
-**Data:**
+**Data**
 <br/>
 I am sorry, due to copyright, I can only upload some part of the factors. These factors are really powerful, some part of them powered by tier-1 stock company in China, and some from Alpha 101, and some from GP learn's generation. 
 <br/>
