@@ -12,8 +12,6 @@ If you want to run the code, you only have to change the time of the backtest an
 
 ## train_model_weekly
 We use XGboost to do a binary classification problem. In the same industry, the top 30% labeled as 1, the last 30% labeled as 0. We will abandon the rest 40% in the training sets. The file save the XGboost model. Because it takes a lot of time, you can save the model and change the following parts when you do backtest.
-<br/>
-<br/>
 
 ## xgb_test_weekly
 Upload XGboost model, and predict the prob. in testing sets. It will produce the decision for each stocks. (Output: a array stock*time)
