@@ -1,7 +1,5 @@
 # XGboost_Index-Enhancement-Strategy
-A Index-Enhancement-Strategy based on XGboost, the code is written in Python, but the document is **written in Chinese**
-
-This is a final project from Tsinghua 2019 *Quantitative Investment Theory* . This project is more like to give you a framework and inspiration. We can't upload all the factors because some of them belong to a leading stock company and some of them come from outstanding hedge fund. Thus, maybe you can change the data, and still use our framework.
+A Index-Enhancement-Strategy based on XGboost, the code is written in Python, but the document is **written in Chinese.** This is a final project from Tsinghua 2019 *Quantitative Investment Theory* . This project is more like to give you a framework and inspiration. We can't upload all the factors because some of them belong to a leading stock company and some of them come from outstanding hedge fund. Thus, maybe you can change the data, and still use our framework.
 
 ## Data
 I am sorry, due to copyright, I can only upload some part of the factors. These factors are really powerful, some part of them powered by tier-1 stock company in China, and some from Alpha 101, and some from GP learn's generation. 
