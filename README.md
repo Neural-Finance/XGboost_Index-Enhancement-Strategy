@@ -12,7 +12,7 @@ If you want to run the code, you only have to change the time of the backtest an
 We use XGboost to do a binary classification problem. The file save the XGboost model. Because it takes a lot of time, you can save the model and change the following parts when you do backtest. XGBoost is very powerful in this field, because it has bigger model capacity than linear model, meanwhile it's more robust than deep learning model. In this way, it has overwhelmed Kaggle's feature engineering contests.
 
 <div align=center>
-	<img src="https://github.com/Neural-Finance/XGboost_Index-Enhancement-Strategy/blob/master/image/xgboost.png" width="300"> 
+	<img src="https://github.com/Neural-Finance/XGboost_Index-Enhancement-Strategy/blob/master/image/xgboost.png" width="500"> 
 </div>
 
 **Actually, there are a lot of important settings, including data clean, normalization and labelization, It's very very important!**. For further information you can read a sell-side equity report, you can find it in this repository (written in Chinese), or you can read patiently about my code, or you can have a brief look at my descrption as following. 
