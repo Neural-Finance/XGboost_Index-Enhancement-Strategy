@@ -2,9 +2,8 @@
 A Index-Enhancement-Strategy based on XGboost, the code is written in Python, but the document is **written in Chinese.** This is a final project from Tsinghua 2019 *Quantitative Investment Theory* . This project is more like to give you a framework and inspiration. We can't upload all the factors (we just provide a small sample) because some of them belong to a leading stock company and some of them come from outstanding hedge fund. Thus, maybe you can change the data, and still use our framework.
 
 ## Data
-I am sorry, due to the copyright, I can only upload some part of the factors, **I only give the factor value from some time period, and I didn't give the formula, for the sake of the company who gives me! But it will be enough for you, if you regard it as an inspiring framework. You can replace the input data easily.**. These factors are really powerful, some part of them powered by tier-1 stock company in China, and some from Alpha 101, and some from GP learn's generation. 
+I am sorry, due to the copyright, I can only upload some part of the factors, **I only give the factor value from some time period, and I didn't give the formula, for the sake of the company who gives me! But it will be enough for you, if you regard it as an inspiring framework. You can replace the input data easily.** These factors are from powered by tier-1 stock company in China, and some from Alpha 101, and some from GP learn's generation. If you want to run the code, you only have to change the time of the backtest and the file path.
 <br/>
-If you want to run the code, you only have to change the time of the backtest and the file path.
 
 ![image](https://github.com/Neural-Finance/XGboost_Index-Enhancement-Strategy/blob/master/image/data.png)
 
