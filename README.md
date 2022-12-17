@@ -37,4 +37,6 @@ This platform will show all the professional assessment of your strategy.
 ![image](https://github.com/Neural-Finance/XGboost_Index-Enhancement-Strategy/blob/master/image/backtest2.png)
 
 **If you like it, please give me a star, thanks.**
+
+
 **By the way, it's only a very naive and simple project of my first year graduate course in Tsinghua, don't measure it from the perspective of insitutional investors. You can use it to handover homework, or, if you have good alpha, you can use this way to combine your alpha, in this way, it may/can be valued from the perspective of institutional investors.**
